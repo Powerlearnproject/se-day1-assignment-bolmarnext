@@ -82,7 +82,6 @@ Defining project scope, goals, and deliverables.
 Creating and managing project schedules and budgets.
 Coordinating communication among team members and stakeholders.
 Managing risks and addressing issues that arise during the project.
-Ensuring the project is completed on time, within scope, and within budget.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
